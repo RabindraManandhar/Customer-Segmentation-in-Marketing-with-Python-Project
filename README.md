@@ -1,4 +1,5 @@
 # Customer Segmentation in Marketing with Python Project
+
 ### Exploring K-Means and Heirarchical Clustering for Effective Marketing Strategies
 
 #### Introduction
