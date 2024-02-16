@@ -13,4 +13,7 @@ The project requires Python v.3 and Jupyter Notebook. It uses the following Pyth
 * matplotlib
 * seaborn
 * scipy
-* sklearn
+* sklearn					
+
+#### Segmentation data - Legend
+The dataset of the customer information can be found in `customer_segmentation_data.csv` and its legend in `Segmentation data legend.xlsx` files.
